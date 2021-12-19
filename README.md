@@ -1,5 +1,3 @@
-## Semanggi Back Office
-
 ### Installation
 
 - Clone the repo
