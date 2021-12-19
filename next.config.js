@@ -5,8 +5,7 @@ const withFonts = require("next-fonts");
 module.exports = withSass(withFonts({
   env: {
     REACT_APP_API_URL: 'http://localhost:8000/api',
-    // REACT_APP_API_URL: 'https://proapi.semanggi.app/api/v3',
-  },
+ },
   cssModules: false,
   enableSvg: true,
   webpack (config, options) {
