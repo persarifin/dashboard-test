@@ -1,0 +1,18 @@
+.menuIcon{
+    background:url('https://storage.googleapis.com/spaces-semanggi-app/back-office/super-entity/png/dashboard.png') no-repeat 0 0;
+}
+
+.menuIcon:hover{
+    background:url('https://storage.googleapis.com/spaces-semanggi-app/back-office/super-entity/png/bg-dashboard.png') no-repeat 0 -100px;
+}
+
+.menu-super-admin {
+  span {
+    background-color: #0A804D;
+    color: #fff;
+    font-weight: bold;
+    padding: 0.5rem 1.5rem;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+}
